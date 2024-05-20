@@ -1,8 +1,8 @@
 # Delta-Demo
 Demo for Git and GitHub.
 
-#Teacher
+# Teacher
 Shradha Khapra
 
-#Student
+# Student
 Sharanya Singh
